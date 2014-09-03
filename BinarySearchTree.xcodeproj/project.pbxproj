@@ -12,6 +12,7 @@
 		F240A15119B7AC6500F3ECF6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F240A14F19B7AC6500F3ECF6 /* Main.storyboard */; };
 		F240A15319B7AC6500F3ECF6 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F240A15219B7AC6500F3ECF6 /* Images.xcassets */; };
 		F240A15F19B7AC6500F3ECF6 /* BinarySearchTreeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F240A15E19B7AC6500F3ECF6 /* BinarySearchTreeTests.swift */; };
+		F240A16919B7AE1C00F3ECF6 /* BinarySearchTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = F240A16819B7AE1C00F3ECF6 /* BinarySearchTree.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +35,7 @@
 		F240A15819B7AC6500F3ECF6 /* BinarySearchTreeTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BinarySearchTreeTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F240A15D19B7AC6500F3ECF6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F240A15E19B7AC6500F3ECF6 /* BinarySearchTreeTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BinarySearchTreeTests.swift; sourceTree = "<group>"; };
+		F240A16819B7AE1C00F3ECF6 /* BinarySearchTree.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BinarySearchTree.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +79,7 @@
 			children = (
 				F240A14B19B7AC6500F3ECF6 /* AppDelegate.swift */,
 				F240A14D19B7AC6500F3ECF6 /* ViewController.swift */,
+				F240A16819B7AE1C00F3ECF6 /* BinarySearchTree.swift */,
 				F240A14F19B7AC6500F3ECF6 /* Main.storyboard */,
 				F240A15219B7AC6500F3ECF6 /* Images.xcassets */,
 				F240A14919B7AC6500F3ECF6 /* Supporting Files */,
@@ -210,6 +213,7 @@
 			files = (
 				F240A14E19B7AC6500F3ECF6 /* ViewController.swift in Sources */,
 				F240A14C19B7AC6500F3ECF6 /* AppDelegate.swift in Sources */,
+				F240A16919B7AE1C00F3ECF6 /* BinarySearchTree.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
